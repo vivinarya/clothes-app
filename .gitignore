@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+env/
+venv/
+__pycache__/
+
+# Python artifacts
+*.pyc
+
+# Environment variables
+.env
+
+# System-specific files
+.DS_Store
+Thumbs.db
